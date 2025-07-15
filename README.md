@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Channaka Jayaram Venkata Sai</h1>
+<h1 align="center">💫 Hi, I'm Channaka Jayaram Venkata Sai</h1>
 <h3 align="center">I'm a passionate developer blending full stack development, AI integration, and blockchain technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-jay7&label=Profile%20views&color=0e75b6&style=flat" alt="myself-jay7" /> </p>
