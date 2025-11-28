@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-jay7&label=Profile%20views&color=0e75b6&style=flat" alt="myself-jay7" /> </p>
 
-- 🔭 I’m currently working on **Ek Pay**
+- 🔭 I’m currently working on **Unifolio**
 
 - 🌱 I’m currently learning **System design and the AI/ML.**
 
