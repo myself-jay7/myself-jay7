@@ -47,23 +47,6 @@ I'm a software engineer interested in building efficient trading systems, explor
   </a>
 </p>
 
-### Connect with Me
-
-<p align="center">
-  <a href="https://x.com/myself_jay7">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35" height="35" alt="X" />
-  </a>
-  <a href="https://linkedin.com/in/myself-jay7">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/myself_jay7">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/myself_jay7">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35" height="35" alt="HackerRank" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
