@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myself-jay7&label=Profile%20views&color=0e75b6&style=flat" alt="myself-jay7" /> </p>
 
-- 🔭 I’m currently working on **Unifolio**
+- 🔭 I’m currently working on **Trading System**
 
-- 🌱 I’m currently learning **System design and the AI/ML.**
+- 👯 I’m looking to collaborate on **Algo Trading, and System Development**
 
-- 👯 I’m looking to collaborate on **AI, and full stack SaaS applications**
-
-- 📫 How to reach me **https://jayaramchannaka.dev**
+- 📫 How to reach me **https://7icebear.com**
 
 - ⚡ Fun fact **I build real-world apps while still in college — and love it!**
 
