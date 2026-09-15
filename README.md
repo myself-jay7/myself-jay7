@@ -64,16 +64,6 @@ I'm a software engineer interested in building efficient trading systems, explor
   </a>
 </p>
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myself-jay7&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myself-jay7&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
 ---
 
 <p align="center">
