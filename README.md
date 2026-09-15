@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **https://7icebear.com**
 
-- ⚡ Fun fact **I build real-world apps while still in college — and love it!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/myself_jay7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myself-jay7" height="30" width="40" /></a>
