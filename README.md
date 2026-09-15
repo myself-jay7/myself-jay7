@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://7icebear.com">Website</a> •
-  <a href="https://linkedin.com/in/myself-jay7">LinkedIn</a> •
+  <a href="https://linkedin.com/in/7icebear">LinkedIn</a> •
   <a href="https://x.com/myself_jay7">X</a>
 </p>
 
